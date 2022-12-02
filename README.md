@@ -50,7 +50,7 @@ This is a web based application developed for health related based website in in
 
 ### health bot
 
-![chatbot](https://user-images.githubusercontent.com/115987624/205267545-b9798520-c23c-4957-8696-86f1679f9099.jpg)
+![222](https://user-images.githubusercontent.com/115987624/205268366-354e84a2-125f-4547-9758-c2d02116fb3b.jpg)
 
 
 
