@@ -5,7 +5,7 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -
+**Project Link** -https://kamitiusharani.github.io/Project22/
 **project demo video link** - 
 
 ## Azure technologies used for Project
@@ -25,6 +25,7 @@ This is a web based application developed for health related based website in in
 ## Screenshots
 
 
+![screen shot 1](https://user-images.githubusercontent.com/115987624/205264586-b5de6519-42b0-457a-bc6e-be26c83280b5.png)
 
 
    
