@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://kamitiusharani.github.io/Project22/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/XlzVhSXaV-4
 
 ## Azure technologies used for Project
 
